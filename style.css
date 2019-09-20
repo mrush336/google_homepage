@@ -40,6 +40,12 @@ center {
     top: 158px;
 }
 
+img {
+    padding-bottom: 25px;
+    position: relative;
+    left: 25px;
+}
+
 input[type=text] {
     padding: 13px ;
     box-sizing: border-box;
@@ -47,13 +53,6 @@ input[type=text] {
     border-color: rgb(223, 225, 229);
     width: 550px;
 }
-
-img {
-    padding-bottom: 25px;
-    position: relative;
-    left: 25px;
-}
-
 
 input[type=submit] {
     margin-top: 35px;
